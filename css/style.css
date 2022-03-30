@@ -1,0 +1,42 @@
+table, tr, th, td {
+border: solid 4px 	#DA70D6; 
+text-align: center;
+}
+
+
+* {
+    margin: 1;
+    font-family: courier;
+}
+
+
+
+table {
+    margin: 50px 0 50px 0;
+    width: 80%;
+    border-collapse: collapse;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    background-color: hsl(200, 100%, 100%);
+}
+
+table, tr, th, td {
+    border: solid 2px 	#DA70D6;
+    text-align: center;
+}
+
+th {
+    background-color: #DDA0DD;
+    padding: 10px;
+    font-size: 15px;
+    color: #FF00FF;
+}
+
+
+
+img {
+    width: 150px;
+}
+
+img {   
+border: solid 2px #FF00FF; 
+}
